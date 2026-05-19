@@ -16,4 +16,17 @@ printf("Hola Mundo\n)");
 #~: representa el directorio home de cualquier usuario
 #ruta absoluta: ubicación exacta de un archivo o carpeta desde la raíz del sistema
 #ruta relativa: la dirección hacia tu destino basándose en la carpeta en la que te encuentras en este momento
-#ls: lista de archivos de directorio actual 
+#ls: lista de archivos de directorio actual
+ls 
+#ls -a: a- es de all me muestra todo incluyendo los archivos y directorios ocultos
+ls -a
+#cambio del directorio al directorio raiz  de linux 
+cd /
+#cambio del directorio al directorio binario de linux 
+#ruta absoluta:
+cd /bin 
+#ruta relativa:
+cd bin
+#cp: significa copy que mueve de un origen a un destino 
+#mkdir: make directory para crear carpetas 
+mkdir 
